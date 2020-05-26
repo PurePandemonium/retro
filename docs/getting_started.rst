@@ -1,7 +1,7 @@
 Getting Started
 =====================================
 
-Gym Retro requires one of the supported versions of Python (3.5, 3.6, or 3.7). Please make sure to install the appropriate distribution for your OS beforehand. Please note that due to compatibility issues with some of the cores, 32-bit operating systems are not supported.
+Gym Retro requires one of the supported versions of Python (3.6, 3.7, or 3.8). Please make sure to install the appropriate distribution for your OS beforehand. Please note that due to compatibility issues with some of the cores, 32-bit operating systems are not supported.
 
 .. code-block:: shell
 
